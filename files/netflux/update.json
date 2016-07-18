@@ -3,6 +3,6 @@
   "name": "netflux",
   "repo": "coast-team/netflux",
   "files": {
-    "include": ["netflux.es2015.umd.js"]
+    "include": ["dist/netflux.es2015.umd.js"]
   }
 }
